@@ -1,1 +1,1 @@
-# 30-JS-Problems
+## 30 JavaScript problems
