@@ -12,3 +12,6 @@
 
 
 [6.Even Or Odd](././6.EvenOdd)  => Write a function that checks if a number is even or odd and return "Even" odd "Odd" accordingly.
+
+
+[7.Leap Year or Not ](././7.LeapYear) => Create a Program that checks if a given year is a leap year.
