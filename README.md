@@ -9,3 +9,6 @@
 [4.Find area](././4.Find-Area) => Create a Function to Calculate the area of rectangle given its width and height
 
 [5.Reversed String](././5.RevString) => Write a function that takes a string  and returns the reversed version of it.
+
+
+[6.Even Or Odd](././6.EvenOdd)  => Write a function that checks if a number is even or odd and return "Even" odd "Odd" accordingly.
