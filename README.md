@@ -15,3 +15,5 @@
 
 
 [7.Leap Year or Not ](././7.LeapYear) => Create a Program that checks if a given year is a leap year.
+
+[8.Sum of All Elemts](././8.SumOfEl/)  => Find the sum of all elements in an array.
