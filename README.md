@@ -21,3 +21,5 @@
 [9.Craete Obejct](././9.ObjectCar) => Create car object representing a car with properties like make,model,and year.Add a Method to the car object to start the engine.
 
 [10.Dom Manipulation](././10.Dom) => Change the text of a paragraph on a webpage using JavaScript.
+
+[10.Dom Manipulation](././10.Dom) => Craete a button daynamically and add itt to the webpage.
